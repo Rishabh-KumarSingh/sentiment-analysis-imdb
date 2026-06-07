@@ -123,7 +123,7 @@ streamlit run app.py
 | Logistic Regression | ~91.2% | ~0.972 |
 | Multinomial Naive Bayes | ~88.4% | ~0.952 |
 
-*Exact numbers will vary slightly by run. Train/test split: 80/20, stratified, seed=42.*
+
 
 ---
 
@@ -174,9 +174,9 @@ ROC-AUC    : ~0.979
 
 **Your Name**
 Data Science Intern — Pinnacle Labs
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
+- GitHub: [https://github.com/Rishabh-KumarSingh]
+- LinkedIn: [www.linkedin.com/in/rishabh-kumar-singh-b5354a251]
 
 ---
 
-*Part of a series: Project 1 — Fake News Detection (NLP · TF-IDF · Logistic Regression · 96.2% accuracy)*
+
