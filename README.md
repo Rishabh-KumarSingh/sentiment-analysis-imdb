@@ -1,6 +1,6 @@
 # 🎬 Sentiment Analysis — IMDB Movie Reviews
 
-**Pinnacle Labs · Data Science Internship · Project 2**
+
 
 Binary sentiment classification (Positive / Negative) on 50,000 IMDB movie reviews using TF-IDF vectorization and LinearSVC — achieving **~92.8% accuracy**.
 
@@ -172,7 +172,7 @@ ROC-AUC    : ~0.979
 
 ## Author
 
-**Your Name**
+**Rishabh Kumar Singh**
 Data Science Intern — Pinnacle Labs
 - GitHub: [https://github.com/Rishabh-KumarSingh]
 - LinkedIn: [www.linkedin.com/in/rishabh-kumar-singh-b5354a251]
